@@ -1,0 +1,19 @@
+body{
+    background-image: url("images/background-1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+}
+
+.subtitle {
+    font-family: caveat;
+    
+}
+
+.title{
+    margin: 10px;
+    font-family: playfair display;
+}
+
+.footer{
+    text-align: center;
+}
