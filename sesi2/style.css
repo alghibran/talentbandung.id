@@ -1,19 +1,22 @@
 body{
-    font-family: roboto;
-    background-color: white;
+  margin: 0;
+	padding: 0;
    
 }
 
 .site-content{
-    margin: 0;
-    padding: 0;
+  font-family: "Roboto";
+	color: black;
+	margin: 0;
+	padding: 0;
+	display: block;
+	background-image: url("images/background-1.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .hero{
     height: 600px;
-    background-image: url("images/background-1.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
     text-align: center;
     padding: 100px 0 0 0;
 }
@@ -23,8 +26,7 @@ body{
         display: block;
         font-family: 'Caveat';
         font-size: 60px;
-        
-      
+             
     }
 
 .title{
@@ -87,8 +89,8 @@ body{
       }
       
       .taman-detail .subtitle{
-        font-size: 25px;
-        color: #B3B3B3;
+        font-size: 35px;
+        color: rgb(153, 28, 12);
       
       }
       
@@ -100,7 +102,7 @@ body{
         font-family: 'Roboto';
         line-height: 2px;
         font-size: 12px;
-        color: #B3B3B3;
+        color: black;
       }
 .footer{
     text-align: center;
