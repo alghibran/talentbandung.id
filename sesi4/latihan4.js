@@ -1,4 +1,4 @@
-var jam = 19;
+var jam = 3;
 if(jam >= 1 && jam <= 11){
     console.log("Selamat Pagi");
 }
