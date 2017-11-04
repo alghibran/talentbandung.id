@@ -1,14 +1,28 @@
-var jam = 3;
-if(jam >= 1 && jam <= 11){
-    console.log("Selamat Pagi");
-}
-else if (jam >=11 && jam <= 15){
-        console.log("Selamat Siang");
-    }
-    else if (jam >=15 && jam <=18){
-        console.log("Selamat Sore");
-        }
-        else {
-            console.log("Selamat Malam");
-        }
-        
+// var hari = 5;
+// switch ( hari ) {
+//     case 1:
+//         alert("Senin");
+//         break;
+//     case 2:
+//         alert("Selasa");
+//         break;
+//     case 3:
+//         alert("Rabu");
+//         break;
+//     case 4:
+//         alert("Kamis");
+//         break;
+//     case 5:
+//         alert("Jumat");
+//         break;
+//     case 6:
+//         alert("Sabtu");
+//         break;
+//     case 7:
+//         alert("Minggu");
+//         break;
+//     default:
+//         alert("Nama Hari tidak dikenal");
+                                                        
+// }
+
