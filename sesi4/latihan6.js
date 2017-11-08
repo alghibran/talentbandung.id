@@ -3,7 +3,8 @@ btnGreet.addEventListener("click",greet);
 var btnClear = document.getElementById("clear");
 btnGreet.addEventListener("click",clear);
 
-function greet (){
+function greet (event){
+    // console.log(event.target.textContent);
     var nama = document.getElementById("nama").value;
     var alamat_email = document.getElementById("alamat_email").value;
     
